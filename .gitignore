@@ -1,0 +1,7 @@
+# C comlpiled flies
+*.exe
+*.out
+*.o
+
+# Temporary files
+*.tmp
